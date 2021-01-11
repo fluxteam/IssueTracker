@@ -1,7 +1,10 @@
 # Issue Tracker
 Report issues, give feedback and request features about any Flux service.
 
-### Creating a new issue
+> Read the document in your language:<br>
+> `English (EN)` [`Türkçe (TR)`](https://github.com/fluxteam/IssueTracker/blob/main/README_TR.md)
+
+## Creating a new issue
 
 * If you don't have a GitHub account yet, <a href="https://github.com/join" target="_blank">create new one.</a><br><br>
   <img src="assets/github_signup.png" width="800">
@@ -17,3 +20,9 @@ Report issues, give feedback and request features about any Flux service.
 
 * Fill the Issue, and create!<br><br>
   <img src="assets/github_submit_issue.png" width="400">
+  
+## What happens after creating an issue?
+
+We (FluxTeam) will take a look into to your issue, and you will able to what is going on by going to the issue that you created. We can label, assign people etc to your issues when needed. As we are humans, we can't give an exact date when your issue will get attention.
+
+If your problem does not comply with the rules, it can be ignored or closed without any notice. 
