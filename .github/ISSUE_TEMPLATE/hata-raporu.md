@@ -1,13 +1,15 @@
 ---
 name: Hata raporu
 about: Gelişmemize yardımcı olmak için hata raporu oluşturun.
-title: ''
-labels: ''
+title: Buraya gördüğünüz hatanın başlığını yazınız.
+labels: CHECK
 assignees: ''
 
 ---
 
-- [] Açılmış olan diğer issues'lara önceden baktım. (Köşeli parantezin içine 'X' yazınız)
+**Başlamadan önce;**
+- [] Daha önceden önerilen özellikleri kontrol ettim. (Köşeli parantezin içine 'X' yazınız)
+- [] Botun gerekli izinlerinin olup olmadığını kontrol ettim. (Köşeli parantezin içine 'X' yazınız)
 
 **Bu hata raporunu şu bot için açtım;**
 Buraya yaşadığınız hatanın hangi bot ile yaşandığını yazınız. (WordBot, FluxBot...)
