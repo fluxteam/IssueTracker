@@ -23,6 +23,6 @@ Report issues, give feedback and request features about any Flux service.
   
 ## What happens after creating an issue?
 
-We (FluxTeam) will take a look into to your issue, and you will able to what is going on by going to the issue that you created. We can label, assign people etc to your issues when needed. As we are humans, we can't give an exact date when your issue will get attention.
+We (FluxTeam) will take a look into to your issue, and you will able to what is going on by going to the issue that you created. We can add labels, assign people and do other actions to your issues when needed. As we are humans and have our own lives, we can't give an exact date when your issue will get attention.
 
 If your problem does not comply with the rules, it can be ignored or closed without any notice. 
