@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Gelişmemize yardımcı olmak için Bug Report oluşturun.
+name: Hata raporu
+about: Gelişmemize yardımcı olmak için hata raporu oluşturun.
 title: ''
-labels: check
+labels: ''
 assignees: ''
 
 ---
