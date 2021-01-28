@@ -3,13 +3,13 @@ name: Hata raporu
 about: Gelişmemize yardımcı olmak için hata raporu oluşturun.
 title: Buraya gördüğünüz hatanın başlığını yazınız.
 labels: CHECK
-assignees: ''
+assignees: Teo00
 
 ---
 
 **Başlamadan önce;**
-- [] Daha önceden önerilen özellikleri kontrol ettim. (Köşeli parantezin içine 'X' yazınız)
-- [] Botun gerekli izinlerinin olup olmadığını kontrol ettim. (Köşeli parantezin içine 'X' yazınız)
+- [] Daha önceden açılmış hata raporlarını kontrol ettim. Benzer bir hata raporu yok. (Köşeli parantezin içine 'X' yazınız)
+- [] Botun gerekli izinlerinin olup olmadığını kontrol ettim. Her şey doğru gözüküyor. (Köşeli parantezin içine 'X' yazınız)
 
 **Bu hata raporunu şu bot için açtım;**
 Buraya yaşadığınız hatanın hangi bot ile yaşandığını yazınız. (WordBot, FluxBot...)
