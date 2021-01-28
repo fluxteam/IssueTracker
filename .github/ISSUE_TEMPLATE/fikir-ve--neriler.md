@@ -3,19 +3,19 @@ name: Fikir ve Öneriler
 about: Gelişmemize yardımcı olmak için öneride bulunun.
 title: Buraya önerdiğiniz özelliğin başlığını yazınız.
 labels: CHECK, ENHANCEMENT
-assignees: ''
+assignees: Teo00
 
 ---
 
 **Başlamadan önce;**
-- [] Daha önceden önerilen özellikleri kontrol ettim. (Köşeli parantezin içine 'X' yazınız)
-- [] Botun gerekli izinlerinin olup olmadığını kontrol ettim. (Köşeli parantezin içine 'X' yazınız)
+- [] Daha önceden önerilen özellikleri kontrol ettim. Benzer bir öneri yok. (Köşeli parantezin içine 'X' yazınız)
+- [] (HATA ALIYORSANIZ DOLDURUN) Botun gerekli izinlerinin olup olmadığını kontrol ettim. (Köşeli parantezin içine 'X' yazınız)
 
 **Bu fikir/öneri şu bot için;**
 Buraya fikrinizin/önerinizin hangi bot ile alakalı olduğunu yazınız. (WordBot, FluxBot...)
 
 **Önerdiğiniz özellik bir hataya bağlı mı? Lütfen açıklayın;**
-Hatanın öz, temiz ve detaylı açıklaması.  Örneğin: "[...] yaşandığı zaman çok sinir oluyorum."
+Hatanın öz, temiz ve detaylı açıklaması.  Örneğin: "[...] yaşandığı zaman çok rahatsız edici oluyor."
 
 **Kendi ürettiğiniz çözüm;**
 Çözümünüzün öz, temiz ve detaylı açıklaması. Örneğin: "Bunu engellemek için [...] yapılabilir."
