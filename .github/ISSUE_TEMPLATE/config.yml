@@ -1,5 +1,1 @@
 blank_issues_enabled: false
-contact_links:
-  - name: Flux Status
-    url: https://fluxteam.github.io/status
-    about: Check if Flux services are down before creating a new issue.
