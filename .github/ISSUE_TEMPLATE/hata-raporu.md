@@ -2,8 +2,6 @@
 name: Hata raporu
 about: Gelişmemize yardımcı olmak için hata raporu oluşturun.
 title: Buraya gördüğünüz hatanın başlığını yazınız.
-labels: CHECK
-assignees: Teo00
 
 ---
 

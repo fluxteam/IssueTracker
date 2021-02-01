@@ -2,8 +2,7 @@
 name: Fikir ve Öneriler
 about: Gelişmemize yardımcı olmak için öneride bulunun.
 title: Buraya önerdiğiniz özelliğin başlığını yazınız.
-labels: CHECK, ENHANCEMENT
-assignees: Teo00
+labels: ENHANCEMENT
 
 ---
 
