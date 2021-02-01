@@ -1,0 +1,37 @@
+name: Flux Manage Issues
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  manage-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Add labels & Assign people
+        uses: Naturalclar/issue-action@v2.0.2
+        with:
+          title-or-body: "title"
+          parameters: '[ {"keywords": ["KoiosBot"], "labels": [], "assignees": ["Hagfog"]}, {"keywords": ["WordBot"], "labels": [], "assignees": ["ysfchn", "Zamion101"]}]'
+          github-token: "${{ secrets.GITHUB_TOKEN }}"
+      - name: Check if people has assigned
+        uses: actions-cool/issues-helper@v2.0.0
+        id: people-check
+        with:
+          actions: 'check-issue'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
+          assignee-includes: 'Hagfog/ysfchn/Zamion101'
+      - name: Fallback if no one has assigned
+        if: steps.peope-check.outputs.check-result == 'false'
+        uses: actions-cool/issues-helper@v2.0.0
+        with:
+          actions: 'update-issue'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
+          labels: 'CHECK'
+          assignees: 'Teo00'
