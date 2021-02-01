@@ -11,25 +11,25 @@ jobs:
       - uses: actions/checkout@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Label KoiosBot
+      - name: Check for KoiosBot
         if: ${{ contains(github.event.issue.title, 'KoiosBot') }}
         uses: actions-cool/issues-helper@v2.0.0
         with:
           actions: 'update-issue'
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
-          labels: ''
+          labels: 'CHECK'
           assignees: 'Hagfog'
-      - name: Label WordBot
+      - name: Check for WordBot
         if: ${{ contains(github.event.issue.title, 'WordBot') || contains(github.event.issue.title, 'WB') }}
         uses: actions-cool/issues-helper@v2.0.0
         with:
           actions: 'update-issue'
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
-          labels: ''
+          labels: 'CHECK'
           assignees: 'ysfchn,Zamion101'  
-      - name: Fallback if no one has assigned
+      - name: Fallback
         if: ${{ !success() }}
         uses: actions-cool/issues-helper@v2.0.0
         with:
