@@ -39,7 +39,7 @@ Mümkünse, problemi detaylandırmak adına ekran görüntüleri ekleyin. Aşağ
 
 ## Sunucu Bilgileri
 Yaşanan problemin yaşandığı Sunucu'ya ait temel bilgiler.
-**Sunucu ID:**
+###### Sunucu ID:
 **Kanal ID:**
 
 ## Ek Bilgiler/Belgeler
