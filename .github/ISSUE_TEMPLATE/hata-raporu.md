@@ -6,10 +6,11 @@ title: (HATA/BUG) Buraya yaşadığınız hatanın başlığını yazınız.
 ---
 
 ## Kontroller
-- [ ] Daha önceden açılmış hata raporlarını kontrol ettim. Benzer bir hata raporu yok. (Köşeli parantezin içine 'X' yazınız ve bu kısmı siliniz)
-- [ ] Botun gerekli izinlerinin olup olmadığını kontrol ettim. Her şey doğru gözüküyor. (Köşeli parantezin içine 'X' yazınız ve bu kısmı siliniz)
+- [ ] Daha önceden açılmış hata raporlarını kontrol ettim. Benzer bir hata raporu yok. (Köşeli parantezin içine 'X' yazınız ve bu parantezi, içindekilerle beraber siliniz)
+- [ ] Botun gerekli izinlerinin olup olmadığını kontrol ettim. Her şey doğru gözüküyor. (Köşeli parantezin içine 'X' yazınız ve bu parantezi, içindekilerle beraber siliniz)
 
 ## Problemin yaşandığı Bot(lar);
+(Köşeli parantezin içine 'X' yazınız ve bu parantezi, içindekilerle beraber siliniz)
 - [ ] WordBot
 - [ ] WordBot Beta
 - [ ] KoiosBot
