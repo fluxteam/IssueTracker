@@ -40,7 +40,7 @@ Mümkünse, problemi detaylandırmak adına ekran görüntüleri ekleyin. Aşağ
 ## Sunucu Bilgileri
 Yaşanan problemin yaşandığı Sunucu'ya ait temel bilgiler.
 ###### Sunucu ID:
-**Kanal ID:**
+###### Kanal ID:
 
 ## Ek Bilgiler/Belgeler
 Yaşanan problem hakkında yukarıdaki bölümler dışında belirtilecek olan bilgileri lütfen buraya yazınız. Ayrıca bu kısma ekstra olarak belge yükleyebilirsiniz. 
