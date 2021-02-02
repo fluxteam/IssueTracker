@@ -6,11 +6,11 @@ title: (HATA/BUG) Buraya yaşadığınız hatanın başlığını yazınız.
 ---
 
 ## Kontroller
-- [ ] Daha önceden açılmış hata raporlarını kontrol ettim. Benzer bir hata raporu yok. (Köşeli parantezin içine 'X' yazınız ve bu parantezi, içindekilerle beraber siliniz)
-- [ ] Botun gerekli izinlerinin olup olmadığını kontrol ettim. Her şey doğru gözüküyor. (Köşeli parantezin içine 'X' yazınız ve bu parantezi, içindekilerle beraber siliniz)
+- [ ] Daha önceden açılmış hata raporlarını kontrol ettim. Benzer bir hata raporu yok.  <!-- Köşeli parantezin içine 'X' yazınız -->
+- [ ] Botun gerekli izinlerinin olup olmadığını kontrol ettim. Her şey doğru gözüküyor. <!-- Köşeli parantezin içine 'X' yazınız -->
 
 ## Problemin yaşandığı Bot(lar);
-(Köşeli parantezin içine 'X' yazınız ve bu parantezi, içindekilerle beraber siliniz)
+<!-- Köşeli parantezin içine 'X' yazınız -->
 - [ ] WordBot
 - [ ] WordBot Beta
 - [ ] KoiosBot
@@ -21,8 +21,7 @@ title: (HATA/BUG) Buraya yaşadığınız hatanın başlığını yazınız.
 Hatanın öz, temiz ve detaylı bir açıklamasını yazınız. Hata ile ilgili olmayan konuları lütfen burada belirtmeyiniz.
 
 ## Yeniden üretme adımları
-(ÖRNEKTİR)
-Bu davranışı yeniden üretmek için gereken adımlar:
+<!-- ÖRNEKTİR KENDİNİZE GÖRE DOLDURUN -->
 1. Şu kanala gidin '...'
 2. Şu komutu kullanın '....'
 3. Şunu ayarlayın '....'
@@ -36,7 +35,7 @@ Yerine görülen davranışın öz, temiz ve detaylı açıklaması.
 
 ## Ekran görüntüleri
 Mümkünse, problemi detaylandırmak adına ekran görüntüleri ekleyin. Aşağıdaki örneğe bakarak ekleyebilir yada editor'de bulunan resim ekleme butonunu kullanabilirsiniz.
-![Örnek](/assets/github_issues.png)
+<!-- ![Örnek](/assets/github_issues.png) -->
 
 ## Sunucu Bilgileri
 Yaşanan problemin yaşandığı Sunucu'ya ait temel bilgiler.
