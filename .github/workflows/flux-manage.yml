@@ -35,7 +35,7 @@ jobs:
           labels: 'CHECK'
           assignees: 'ysfchn,Zamion101'  
       - name: Fallback
-        if: (${{ steps.koiosbot.conclusion }} == 'skipped' && ${{ steps.koiosbot.conclusion }} == 'skipped')
+        if: (${{ steps.koiosbot.conclusion }} == 'skipped' && ${{ steps.wordbot.conclusion }} == 'skipped')
         uses: actions-cool/issues-helper@v2.0.0
         with:
           actions: 'update-issue'
