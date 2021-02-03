@@ -1,29 +1,30 @@
 ---
 name: Fikir ve Öneriler
-about: Gelişmemize yardımcı olmak için öneride bulunun.
-title: Buraya önerdiğiniz özelliğin başlığını yazınız.
+about: Fikir ve Önerilerinizi bize bildirerek WordBot'un gelişmesinde sizde katkıda bulunun
+title: (Fikir/Öneri) Buraya önerdiğiniz özelliğin başlığını yazınız.
 labels: ENHANCEMENT
 
 ---
 
-**Başlamadan önce;**
-- [] Daha önceden önerilen özellikleri kontrol ettim. Benzer bir öneri yok. (Köşeli parantezin içine 'X' yazınız)
-- [] (HATA ALIYORSANIZ DOLDURUN) Botun gerekli izinlerinin olup olmadığını kontrol ettim. (Köşeli parantezin içine 'X' yazınız)
+## Kontroller
+- [ ] Daha önceden açılan Fikirleri/Önerileri kontrol ettim ve kendikime benzer bir Fikir/Öneri bulamadım. <!-- Köşeli parantezin içine 'X' yazınız -->
+- [ ] Bu fikri/öneriyi bir hata'nın çözümü adına yapmaktayım. <!-- Köşeli parantezin içine 'X' yazınız -->
 
-**Bu fikir/öneri şu bot için;**
-Buraya fikrinizin/önerinizin hangi bot ile alakalı olduğunu yazınız. (WordBot, FluxBot...)
 
-**Önerdiğiniz özellik bir hataya bağlı mı? Lütfen açıklayın;**
-Hatanın öz, temiz ve detaylı açıklaması.  Örneğin: "[...] yaşandığı zaman çok rahatsız edici oluyor."
+## Fikrin/Önerinin ait olduğu Bot(lar);
+<!-- Köşeli parantezin içine 'X' yazınız -->
+- [ ] WordBot
+- [ ] KoiosBot
+- [ ] Postcard
+- [ ] FluxBot
 
-**Kendi ürettiğiniz çözüm;**
-Çözümünüzün öz, temiz ve detaylı açıklaması. Örneğin: "Bunu engellemek için [...] yapılabilir."
+## Fikrinizi/Önerinizi detaylı bir şekilde açıklayınız.
+<!-- Fikrinizin/Önerinizi öz, temiz ve detaylı bir açıklaması 
+bizim bu Fikir/Öneri hakkında daha fazla bir bilgi sahibi olmamıza
+ve anlamlandırmamıza yardımcı olacaktır -->
 
-**Bu çözüme ürettiğiniz alternatifler;**
-Ürettiğiniz alternatif çözümlerin ve/veya ek özelliklerin öz, temiz ve detaylı açıklaması. Örneğin: "Ayrıca [...] da yapılabilir."
+## Fikrinize/Önerinize ait altenatif(ler)
+<!-- Eğer bir alternatife sahip değilseniz "Bu Fikrime/Önerime ait bir alternatif yoktur." yazınız -->
 
-**Sunucu ID'si;**
-Buraya ilgili botun bulunduğu sunucunun ID'sini yazınız. (Bu çok da gerekli değildir. Fakat bir soruna bağlı bu özelliği istiyorsanız lütfen doldurun.)
-
-**Ek bilgiler;**
-Bu özellikle ilgili ek bilgileri ve/veya ekran görüntülerini buraya koyunuz.
+## Ekstra eklemek istedikleriniz
+<!-- Bu Fikrinize/Önerinize ait ekstra eklemek istediklernizi (Resim/Video/Konsept tasarımı gib) lütfen buraya ekleyiniz -->
