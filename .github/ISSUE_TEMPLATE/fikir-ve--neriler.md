@@ -1,8 +1,10 @@
 ---
 name: Fikir ve Öneriler
-about: Fikir ve Önerilerinizi bize bildirerek FluxTeam'in gelişmesinde sizde katkıda bulunun
-title: (Fikir/Öneri) Buraya önerdiğiniz özelliğin başlığını yazınız.
+about: Fikir ve Önerilerinizi bize bildirerek FluxTeam'in gelişmesinde sizde katkıda
+  bulunun
+title: "(Fikir/Öneri) Buraya önerdiğiniz özelliğin başlığını yazınız."
 labels: ENHANCEMENT
+assignees: Teo00
 
 ---
 
