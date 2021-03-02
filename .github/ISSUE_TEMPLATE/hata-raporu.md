@@ -3,7 +3,7 @@ name: Hata Raporu
 about: FluxTeam'e ait olan botlar üzerinde bulduğunuz hataları bize bildirerek gelişmemize
   yardımcı olmak için hata raporu oluşturun.
 title: "(HATA/BUG) Buraya yaşadığınız hatanın başlığını yazınız."
-labels: ''
+labels: CHECK
 assignees: Teo00
 
 ---
@@ -11,6 +11,7 @@ assignees: Teo00
 ## Kontroller
 - [ ] Daha önceden açılmış hata raporlarını kontrol ettim. Benzer bir hata raporu yok.  <!-- Köşeli parantezin içine 'X' yazınız -->
 - [ ] Botun gerekli izinlerinin olup olmadığını kontrol ettim. Her şey doğru gözüküyor. <!-- Köşeli parantezin içine 'X' yazınız -->
+- [ ] Bu hata raporunu doldururken hiçbir kısmı silmedim. Sadece benden istenen yerlerde düzenleme yaptım. <!-- Köşeli parantezin içine 'X' yazınız -->
 
 ## Problemin yaşandığı Bot(lar);
 <!-- Köşeli parantezin içine 'X' yazınız -->

@@ -11,7 +11,7 @@ assignees: Teo00
 ## Kontroller
 - [ ] Daha önceden açılan fikirleri/önerileri kontrol ettim ve aşağıda belirteceğim fikre/öneriye benzer bir fikir/öneri bulamadım. <!-- Köşeli parantezin içine 'X' yazınız -->
 - [ ] Bu fikri/öneriyi bir hata'nın çözümü adına yapmaktayım. <!-- Köşeli parantezin içine 'X' yazınız -->
-
+- [ ] Bu formu doldururken hiçbir kısmı silmedim. Sadece benden istenen yerlerde düzenleme yaptım. <!-- Köşeli parantezin içine 'X' yazınız -->
 
 ## Fikrin/Önerinin ait olduğu Bot(lar);
 <!-- Köşeli parantezin içine 'X' yazınız -->
