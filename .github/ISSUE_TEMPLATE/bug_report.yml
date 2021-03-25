@@ -1,0 +1,78 @@
+name: Hata Raporu
+description: Bozuk veya hatalarıı davranışları raporla
+labels: bug
+assignees: Teo00
+issue_body: true
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Zaman ayırıp bu formu doldurduğunuz için teşekkür ederiz.
+        Eğer gerçek zamanlı desteğe ihtiyacınız var ise Discord Sunucumuza bekleriz. https://discord.gg/E7SVAGZJcp
+        
+        Unutmayın bu form sadece hata bildirimi içindir.
+  - type: checkboxes
+    attributes:
+      label: Kontrol Listesi
+      description: >
+        Bu formu göndermeden önce aşağıdakileri kontrol ettiğinizden emin olunuz!
+      options:
+        - label: Daha önceden açılmış hata raporlarını kontrol ettim. Benzer bir hata raporu yok.
+          required: true
+        - label: Botun gerekli izinlerinin olup olmadığını kontrol ettim. Her şey doğru gözüküyor.
+          required: true
+  - type: checkboxes
+    attributes:
+      label: İlgili Proje(ler)
+      options:
+        -label: WordBot
+        -label: WordBot Beta
+        -label: KoiosBot
+        -label: Postcard
+        -label: FluxBot
+  - type: input
+    attributes:
+      label: Hatanın açıklaması
+      description: Hatanın öz, temiz ve detaylı bir açıklamasını yazınız. Hata ile ilgili olmayan konuları lütfen burada belirtmeyiniz.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Yeniden üretme adımları
+      description: >
+         Bu hatayı yeniden oluşturmak için izlenmesi gereken adımlar nelerdir?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Beklenen davranış
+      description: >
+         Olması beklenen davranışın öz, temiz ve detaylı açıklaması.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Yerine görülen davranış
+      description: >
+         Yerine görülen davranışın öz, temiz ve detaylı açıklaması.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Ekran görüntüleri
+      description: >
+         Mümkünse, problemi detaylandırmak adına ekran görüntüleri ekleyin.
+         Aşağıdaki örneğe bakarak ekleyebilir yada editor'de bulunan resim ekleme butonunu kullanabilirsiniz.
+         `![Örnek](/assets/github_issues.png)`
+  - type: input
+    attributes:
+      label: Sunucu ID
+      label: Sunucu ID
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Ek Bilgiler/Belgeler
+      description: >
+         Yaşanan problem hakkında yukarıdaki bölümler dışında belirtilecek olan bilgileri 
+         lütfen buraya yazınız. Ayrıca bu kısma ekstra olarak belge yükleyebilirsiniz.
