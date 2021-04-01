@@ -67,7 +67,11 @@ body:
   - type: input
     attributes:
       label: Sunucu ID
-      label: Sunucu ID
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Kanal ID
     validations:
       required: true
   - type: textarea
