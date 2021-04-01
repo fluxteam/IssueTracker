@@ -21,15 +21,6 @@ body:
           required: true
         - label: Botun gerekli izinlerinin olup olmadığını kontrol ettim. Her şey doğru gözüküyor.
           required: true
-  - type: checkboxes
-    attributes:
-      label: İlgili Proje(ler)
-      options:
-        -label: WordBot
-        -label: WordBot Beta
-        -label: KoiosBot
-        -label: Postcard
-        -label: FluxBot
   - type: input
     attributes:
       label: Hatanın açıklaması
