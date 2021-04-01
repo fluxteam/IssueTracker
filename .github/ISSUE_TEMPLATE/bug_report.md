@@ -1,5 +1,5 @@
 ---
-name: Hata Raporu
+name: Hata Raporu [Eski]
 about: FluxTeam'e ait olan botlar üzerinde bulduğunuz hataları bize bildirerek gelişmemize
   yardımcı olmak için hata raporu oluşturun.
 title: "(HATA/BUG) Buraya yaşadığınız hatanın başlığını yazınız."
