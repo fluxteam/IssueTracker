@@ -1,5 +1,5 @@
 name: Hata Raporu
-description: Bozuk veya hatalarıı davranışları raporla
+description: Bozuk veya hatalı davranışları raporla
 labels: bug
 assignees: Teo00
 issue_body: true
