@@ -2,13 +2,12 @@ name: Hata Raporu
 description: Bozuk veya hatalı davranışları raporla
 labels: bug
 assignees: Teo00
-issue_body: true
 body:
   - type: markdown
     attributes:
       value: >
         Zaman ayırıp bu formu doldurduğunuz için teşekkür ederiz.
-        Eğer gerçek zamanlı desteğe ihtiyacınız var ise Discord Sunucumuza bekleriz. https://discord.gg/E7SVAGZJcp
+        Eğer gerçek zamanlı desteğe ihtiyacınız var ise Discord Sunucumuza bekleriz. https://discord.gg/qVqsYPnRXt
         
         Unutmayın bu form sadece hata bildirimi içindir.
   - type: checkboxes
@@ -28,7 +27,7 @@ body:
         - label: WordBot
         - label: WordBot Beta
         - label: KoiosBot
-        - label: Postcard
+        - label: Relay
         - label: FluxBot
   - type: input
     attributes:
